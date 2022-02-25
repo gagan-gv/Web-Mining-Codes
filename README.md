@@ -4,3 +4,4 @@
 3. [TF-IDF](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%203.ipynb)
 4. [Scraping a website using bs4](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%204.ipynb)
 5. [Scraping a website using scrapy](https://github.com/gagan-gv/Web-Mining-Codes/tree/main/Assignment%20-%205)
+6. [Encoding & Decoding](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%206.ipynb)
