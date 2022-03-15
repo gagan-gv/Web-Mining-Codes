@@ -6,3 +6,4 @@
 5. [Scraping a website using scrapy](https://github.com/gagan-gv/Web-Mining-Codes/tree/main/Assignment%20-%205)
 6. [Encoding & Decoding](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%206.ipynb)
 7. [Centrality & Prestige](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%207.ipynb)
+8. [Page Rank](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%208.ipynb)
