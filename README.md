@@ -8,3 +8,6 @@
 7. [Centrality & Prestige](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%207.ipynb)
 8. [Page Rank](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%208.ipynb)
 9. [Decision Tree](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%209.ipynb)
+10. [Naive Bayes](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%210.ipynb)
+11. [K Means](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%2011.ipynb)
+12. [Random Forest](https://github.com/gagan-gv/Web-Mining-Codes/blob/main/Assignment%20-%2012.ipynb)
